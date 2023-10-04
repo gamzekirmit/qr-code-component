@@ -1,0 +1,38 @@
+#code-text {
+    background-color: hsl(212, 45%, 89%);
+}
+.attribution{
+    position: sticky;
+    margin-top: 70px;
+}
+
+.frame{
+    position: relative;
+    top:50px;
+}
+
+.qr-card {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.image-qr {
+    border-radius: 20px;
+}
+
+.qr-title {
+    font-weight: 700;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    line-height: normal;
+}
+
+.qr-text {
+    font-size: 15px;
+    font-weight:400;
+    display: flex;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    margin-top: 15px;
+    line-height: normal;
+}
